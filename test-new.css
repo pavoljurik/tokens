@@ -10,7 +10,7 @@
 
   /* Color Variables */
   --color_red0: hsl(0 100% 33%);
-  --color_red500: hsl(245 60% 50%);
+  --color_red500: hsl(0 80% 72%);
   --color_red900: hsl(0 100% 84%);
   --color_colorwarning: hsl(NaN NaN% NaN%);
   --color_colordanger: hsl(NaN NaN% NaN%);
